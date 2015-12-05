@@ -9,3 +9,4 @@ genkat
 test.c
 .idea
 *.pyc
+CMakeLists.txt
